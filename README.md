@@ -5,7 +5,7 @@
 4. Click [FORK](https://github.com/SPARK-SHADOW/Shadow-Bot/fork)
 5. Click the url showing below to copy deploy template
 ```
-https://heroku.com/deploy?template=https://github.com/Waxson-Efx/WAXSON-SER
+https://heroku.com/deploy?template=https://github.com/Waxon-Efx/WAXSON-SER
 ``` 
 6. Now change Waxson-Efx with your github username and click ENJOY<br>
    <br>
