@@ -1,6 +1,6 @@
 /* Copyright (C) 2020 Yusuf Usta.
-re-editted by Shadow
-Shadow-Bot
+re-editted by Waxson-Efx
+WAXSON-SER
 */
 
 const Shadow = require('../events');
@@ -13,7 +13,7 @@ let wk = Config.WORKTYPE == 'public' ? false : true
 const Language = require('../language');
 const Lang = Language.getString('_asena');
 const hrs = new Date().getHours({ timeZone: 'Asia/Kolkata' })
-const { shadowButton } = require('../database/MODULES/shadowButtons');
+const { waxsonButton } = require('../database/MODULES/waxsonButtons');
 
 if (Config.STANDPLK == 'off') {
 if (Config.MENUTYPE == 'one' || Config.MENUTYPE == 'One' || Config.MENUTYPE == 'ONE' || Config.MENUTYPE == '1' ) {
