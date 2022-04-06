@@ -10,4 +10,4 @@ https://heroku.com/deploy?template=https://github.com/Waxson-Efx/WAXSON-SER
 6. Now change Waxson-Efx with your github username and click ENJOY<br>
    <br>
 # Contact for help:
-   * Click [Contact](https://wa.me/687878087?text=Need+Help🙂) Here For Contact Shadow
+   * Click [Contact](https://wa.me/687878087?text=Need+Help🙂) Here For Contact WAXSON
